@@ -1,10 +1,11 @@
 {
-  "version": "2026-07-12",
-  "generatedAt": "2026-07-12T13:55:37.685Z",
-  "count": 13577,
+  "version": "2026-08-01",
+  "generatedAt": "2026-08-01T06:45:55.007Z",
+  "count": 30090,
+  "detailsCount": 23271,
   "sources": {
-    "refugesInfo": 4788,
-    "datatourisme": 9823,
-    "overpass": 0
+    "refugesInfo": 4794,
+    "datatourisme": 9853,
+    "overpass": 24730
   }
 }
