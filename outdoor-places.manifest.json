@@ -1,11 +1,13 @@
 {
-  "version": "2026-08-01",
-  "generatedAt": "2026-08-01T06:45:55.007Z",
-  "count": 30090,
-  "detailsCount": 23271,
+  "version": "2026-08-03",
+  "generatedAt": "2026-08-03T16:37:04.275Z",
+  "count": 32959,
+  "detailsCount": 26526,
+  "hotels": 2897,
   "sources": {
-    "refugesInfo": 4794,
-    "datatourisme": 9853,
-    "overpass": 24730
-  }
+    "refugesInfo": 4799,
+    "datatourisme": 41901,
+    "overpass": 24686
+  },
+  "accueilVelo": 3901
 }
