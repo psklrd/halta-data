@@ -1,16 +1,16 @@
 {
-  "version": "2026-09-01",
-  "generatedAt": "2026-09-01T09:58:56.196Z",
-  "count": 33086,
-  "detailsCount": 13593,
-  "hotels": 2890,
-  "core": 7677,
-  "rest": 25409,
+  "version": "2026-10-01",
+  "generatedAt": "2026-10-01T15:56:36.511Z",
+  "count": 33141,
+  "detailsCount": 13839,
+  "hotels": 2932,
+  "core": 7719,
+  "rest": 25422,
   "shards": 64,
   "sources": {
-    "refugesInfo": 4863,
-    "datatourisme": 41865,
-    "overpass": 24749
+    "refugesInfo": 4869,
+    "datatourisme": 41663,
+    "overpass": 24825
   },
-  "accueilVelo": 3886
+  "accueilVelo": 3893
 }
